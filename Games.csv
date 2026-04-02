@@ -1,0 +1,201 @@
+GameID,Title,Genre,Platform,Publisher,Release_Year,ESRB_Rating,Critic_Score,User_Score,Budget_M,Marketing_M,DLC_Count,Multiplayer,Online_Mode,Metacritic_Link
+1,Cyber Legends,RPG,PS5,505 Games,2016,T,80.0,78.9,63.3,20.4,4,No,Yes,https://metacritic.com/game/cyber-legends
+2,Galactic Shooter,Shooter,Xbox Series X,Deep Silver,2023,M,92.3,90.4,26.2,5.7,2,Yes,Yes,https://metacritic.com/game/galactic-shooter
+3,FIFA Pro,Sports,Wii,EA Games,2023,AO,93.0,99.1,20.7,6.2,20,No,No,https://metacritic.com/game/fifa-pro
+4,Shadow Realm,Action,PC,Sega,2021,AO,80.5,76.8,20.8,7.1,0,Yes,No,https://metacritic.com/game/shadow-realm
+5,Legend of Kira,RPG,Xbox One,Bandai Namco,2021,E10+,76.9,61.6,5.9,1.8,10,Yes,Yes,https://metacritic.com/game/legend-of-kira
+6,Combat Strike,Shooter,Xbox Series X,Bethesda,2021,T,67.3,59.2,45.3,22.7,1,No,Yes,https://metacritic.com/game/combat-strike
+7,NBA Slam,Sports,Xbox Series X,CD Projekt Red,2023,E,63.1,51.8,143.4,68.3,20,No,Yes,https://metacritic.com/game/nba-slam
+8,Assassin's Veil,Action,PC,Devolver Digital,2024,E,71.3,71.8,8.0,1.8,7,Yes,Yes,https://metacritic.com/game/assassin's-veil
+9,Final Story,RPG,Xbox Series X,CD Projekt Red,2018,T,67.5,68.4,10.5,4.5,11,Yes,Yes,https://metacritic.com/game/final-story
+10,Forza Horizon,Racing,PC,Paradox Interactive,2020,T,78.5,73.7,24.7,13.6,20,Yes,No,https://metacritic.com/game/forza-horizon
+11,Street Fighter,Fighting,Xbox 360,505 Games,2017,E10+,66.8,81.6,32.7,9.2,12,Yes,No,https://metacritic.com/game/street-fighter
+12,Tekken,Fighting,PC,Paradox Interactive,2023,T,61.3,67.9,9.8,6.1,1,Yes,Yes,https://metacritic.com/game/tekken
+13,SimCity Pro,Simulation,Mobile,Bandai Namco,2020,E,76.5,60.8,8.8,2.7,18,No,Yes,https://metacritic.com/game/simcity-pro
+14,Age of Conquest,Strategy,PS3,CD Projekt Red,2018,M,76.4,82.3,39.3,10.7,4,Yes,No,https://metacritic.com/game/age-of-conquest
+15,Grand Auto World,Action,Xbox 360,Bandai Namco,2023,AO,72.6,70.2,7.5,3.1,18,Yes,Yes,https://metacritic.com/game/grand-auto-world
+16,Mario Odyssey,Adventure,Nintendo Switch,THQ Nordic,2018,M,65.4,61.7,95.3,23.4,1,Yes,Yes,https://metacritic.com/game/mario-odyssey
+17,Halo Chronicles,Shooter,Mobile,Focus Home,2017,E,78.1,64.0,45.8,18.0,19,Yes,No,https://metacritic.com/game/halo-chronicles
+18,Candy Puzzle,Puzzle,Xbox 360,EA Games,2019,E,69.4,64.0,61.0,33.0,17,Yes,No,https://metacritic.com/game/candy-puzzle
+19,Elden World,RPG,Xbox Series X,Square Enix,2020,M,86.4,93.9,14.3,4.0,0,No,No,https://metacritic.com/game/elden-world
+20,Dragon Quest,RPG,Xbox 360,Nacon,2019,E10+,70.3,73.0,87.8,39.8,3,No,Yes,https://metacritic.com/game/dragon-quest
+21,WWE Smackdown,Fighting,Wii,Rockstar Games,2023,E10+,68.2,66.7,11.0,4.3,5,No,No,https://metacritic.com/game/wwe-smackdown
+22,Rocket Arena,Sports,Wii,2K Games,2015,M,59.6,66.1,128.5,27.0,11,Yes,Yes,https://metacritic.com/game/rocket-arena
+23,Survival Island,Adventure,PC,Deep Silver,2015,E,73.1,81.1,47.5,11.5,15,Yes,No,https://metacritic.com/game/survival-island
+24,Minecraft Ultra,Simulation,Nintendo Switch,Paradox Interactive,2017,M,66.3,69.2,154.2,103.8,5,Yes,No,https://metacritic.com/game/minecraft-ultra
+25,StarCraft,Strategy,Mobile,Rockstar Games,2024,AO,73.6,86.1,2.4,1.4,6,No,Yes,https://metacritic.com/game/starcraft
+26,Cyberstrike Mobile,Shooter,Xbox One,Sega,2021,AO,83.9,84.6,24.6,10.5,7,Yes,Yes,https://metacritic.com/game/cyberstrike-mobile
+27,Pokémon Next,RPG,PS5,Deep Silver,2020,AO,75.1,59.2,26.6,8.4,7,Yes,Yes,https://metacritic.com/game/pokémon-next
+28,Mortal Kombat,Fighting,PC,Activision,2015,E,78.3,90.1,19.7,12.4,2,No,Yes,https://metacritic.com/game/mortal-kombat
+29,Gran Turismo,Racing,PS3,Rockstar Games,2019,AO,64.3,60.3,82.7,22.0,18,No,Yes,https://metacritic.com/game/gran-turismo
+30,Civilization,Strategy,PS3,Valve,2018,E10+,77.9,73.7,55.3,13.7,13,Yes,Yes,https://metacritic.com/game/civilization
+31,Bioshock,Shooter,PS3,505 Games,2021,E,75.2,82.9,16.4,8.8,20,Yes,Yes,https://metacritic.com/game/bioshock
+32,Tomb Raider,Adventure,Xbox One,Nintendo,2021,E10+,70.1,67.0,7.7,2.3,17,Yes,Yes,https://metacritic.com/game/tomb-raider
+33,Animal Forest,Simulation,Nintendo Switch,Bandai Namco,2021,M,77.6,79.7,33.3,10.8,2,Yes,No,https://metacritic.com/game/animal-forest
+34,F1 Racing Pro,Racing,PS5,Team17,2016,AO,71.2,59.9,21.7,13.4,2,Yes,Yes,https://metacritic.com/game/f1-racing-pro
+35,Overwatch,Shooter,PS3,Warner Bros,2021,E10+,69.9,63.5,28.2,17.8,1,Yes,Yes,https://metacritic.com/game/overwatch
+36,Stardew Valley,Simulation,Mobile,Bandai Namco,2015,M,78.8,93.9,39.4,13.5,17,No,No,https://metacritic.com/game/stardew-valley
+37,God of Thunder,Action,Nintendo Switch,Rockstar Games,2022,T,77.1,76.5,4.9,1.5,1,No,No,https://metacritic.com/game/god-of-thunder
+38,Battlefield,Shooter,PS5,505 Games,2023,T,73.7,74.2,388.9,88.9,18,Yes,No,https://metacritic.com/game/battlefield
+39,Sonic Frontiers,Adventure,Nintendo Switch,Ubisoft,2023,AO,71.7,74.1,32.0,7.7,5,Yes,No,https://metacritic.com/game/sonic-frontiers
+40,Resident Evil,Action,PC,CD Projekt Red,2016,E,60.0,69.1,70.2,47.1,18,Yes,No,https://metacritic.com/game/resident-evil
+41,Monster Hunter,RPG,PS5,Focus Home,2024,E,83.5,76.2,134.7,55.2,18,No,No,https://metacritic.com/game/monster-hunter
+42,Diablo,RPG,PS4,Rockstar Games,2020,T,57.2,61.9,296.0,94.5,12,Yes,No,https://metacritic.com/game/diablo
+43,Apex Legends,Shooter,PS3,2K Games,2019,E,62.1,57.6,36.6,7.5,19,No,Yes,https://metacritic.com/game/apex-legends
+44,Valorant,Shooter,Xbox 360,Rockstar Games,2016,AO,68.0,55.6,35.5,11.8,11,Yes,Yes,https://metacritic.com/game/valorant
+45,League of Heroes,Strategy,PS4,Microsoft Studios,2020,M,61.3,65.1,13.2,8.1,9,No,No,https://metacritic.com/game/league-of-heroes
+46,Hearthstone,Strategy,PS5,Paradox Interactive,2023,AO,92.6,86.3,24.0,8.4,3,Yes,Yes,https://metacritic.com/game/hearthstone
+47,Among Stars,Adventure,Xbox Series X,505 Games,2016,AO,83.8,74.0,41.6,11.6,9,No,Yes,https://metacritic.com/game/among-stars
+48,Fall Guys Ultra,Sports,PC,Paradox Interactive,2020,T,89.7,76.8,39.8,18.0,8,Yes,Yes,https://metacritic.com/game/fall-guys-ultra
+49,Genshin Journey,RPG,PS4,Ubisoft,2021,E,77.1,83.4,9.6,3.5,4,No,Yes,https://metacritic.com/game/genshin-journey
+50,Dead Island,Action,PS3,Koch Media,2017,M,58.2,62.4,44.6,21.4,3,Yes,No,https://metacritic.com/game/dead-island
+51,Borderlands,Shooter,Xbox 360,Ubisoft,2017,T,77.0,79.8,16.8,8.3,4,Yes,Yes,https://metacritic.com/game/borderlands
+52,The Division,Shooter,PS4,Bethesda,2015,E,76.8,79.1,16.2,10.5,6,No,Yes,https://metacritic.com/game/the-division
+53,Watch Dogs,Action,Xbox One,Nacon,2016,AO,96.4,100.0,10.1,6.5,13,No,No,https://metacritic.com/game/watch-dogs
+54,Far Cry,Shooter,PC,Microsoft Studios,2017,E10+,81.9,74.1,72.8,46.6,0,Yes,No,https://metacritic.com/game/far-cry
+55,Ghost Recon,Shooter,Mobile,Paradox Interactive,2020,E10+,87.9,81.3,86.8,28.9,3,Yes,Yes,https://metacritic.com/game/ghost-recon
+56,Rainbow Six,Shooter,PC,Rockstar Games,2022,M,79.0,85.6,220.7,82.7,7,Yes,Yes,https://metacritic.com/game/rainbow-six
+57,Just Dance,Sports,Mobile,2K Games,2018,T,71.1,65.1,13.6,8.6,8,Yes,No,https://metacritic.com/game/just-dance
+58,South Park RPG,RPG,Mobile,Paradox Interactive,2023,AO,64.2,63.6,46.6,17.0,0,Yes,Yes,https://metacritic.com/game/south-park-rpg
+59,Spiderman,Action,Wii,Bandai Namco,2017,E,77.3,83.9,33.5,8.5,13,Yes,No,https://metacritic.com/game/spiderman
+60,Batman Arkham,Action,Mobile,Focus Home,2020,AO,91.4,89.3,502.8,129.6,18,Yes,Yes,https://metacritic.com/game/batman-arkham
+61,Crash Bandicoot,Adventure,Mobile,EA Games,2015,AO,81.5,74.6,11.3,7.5,17,No,No,https://metacritic.com/game/crash-bandicoot
+62,Spyro Reignited,Adventure,Xbox One,Valve,2018,E,79.8,78.0,67.6,45.6,10,No,Yes,https://metacritic.com/game/spyro-reignited
+63,Cuphead,Action,PS4,THQ Nordic,2016,T,79.7,79.1,14.2,7.6,10,Yes,No,https://metacritic.com/game/cuphead
+64,Hollow Knight,Adventure,Xbox 360,Sony Interactive,2019,E10+,55.8,52.2,78.0,32.0,12,No,No,https://metacritic.com/game/hollow-knight
+65,Celeste Pro,Puzzle,Wii,Deep Silver,2017,T,76.6,66.6,39.4,15.9,0,Yes,Yes,https://metacritic.com/game/celeste-pro
+66,Hades,Action,Mobile,Deep Silver,2018,AO,78.6,71.5,38.6,20.4,14,Yes,Yes,https://metacritic.com/game/hades
+67,Disco Elysium,RPG,Xbox 360,Warner Bros,2018,E10+,74.7,65.6,47.4,25.1,9,No,No,https://metacritic.com/game/disco-elysium
+68,Outer Worlds,RPG,Xbox One,Activision,2024,E10+,80.7,89.4,95.0,51.0,7,Yes,Yes,https://metacritic.com/game/outer-worlds
+69,Wasteland,RPG,PS5,Capcom,2015,M,57.5,50.0,55.4,28.0,2,Yes,Yes,https://metacritic.com/game/wasteland
+70,Pillars of Eternity,RPG,PC,Devolver Digital,2024,M,80.2,84.3,1560.5,697.8,7,Yes,No,https://metacritic.com/game/pillars-of-eternity
+71,Pathfinder,RPG,Xbox Series X,Nacon,2015,M,80.9,90.0,86.0,26.6,16,Yes,Yes,https://metacritic.com/game/pathfinder
+72,Greedfall,RPG,PC,Nintendo,2023,M,81.8,79.3,70.7,18.9,14,No,No,https://metacritic.com/game/greedfall
+73,Kenshi,Strategy,Wii,2K Games,2023,M,64.7,62.8,20.4,10.3,16,Yes,No,https://metacritic.com/game/kenshi
+74,Frostpunk,Strategy,Nintendo Switch,505 Games,2022,M,75.0,93.5,5.1,2.2,7,No,Yes,https://metacritic.com/game/frostpunk
+75,Offworld Trading,Strategy,PS3,Team17,2023,E10+,82.2,69.3,20.7,7.0,2,No,Yes,https://metacritic.com/game/offworld-trading
+76,Northgard,Strategy,PS4,2K Games,2018,T,87.1,87.6,11.3,7.3,2,Yes,Yes,https://metacritic.com/game/northgard
+77,They Are Billions,Strategy,Mobile,Devolver Digital,2018,E10+,65.4,70.8,16.0,8.9,2,Yes,Yes,https://metacritic.com/game/they-are-billions
+78,Iron Harvest,Strategy,Xbox 360,Sega,2020,M,76.6,77.0,17.3,4.0,13,Yes,No,https://metacritic.com/game/iron-harvest
+79,Cyber Legends 2,RPG,Wii,CD Projekt Red,2015,M,99.0,100.0,4.4,0.9,11,Yes,Yes,https://metacritic.com/game/cyber-legends-2
+80,Galactic Shooter 2,Shooter,Xbox 360,505 Games,2021,AO,76.2,70.9,77.7,46.6,7,Yes,Yes,https://metacritic.com/game/galactic-shooter-2
+81,FIFA Pro 2,Sports,Mobile,Warner Bros,2019,E,64.5,63.6,54.9,21.7,12,No,Yes,https://metacritic.com/game/fifa-pro-2
+82,Shadow Realm 2,Action,Nintendo Switch,Focus Home,2022,AO,84.4,74.8,23.7,5.1,12,No,No,https://metacritic.com/game/shadow-realm-2
+83,Legend of Kira 2,RPG,Xbox Series X,Team17,2015,M,68.3,63.1,193.5,51.8,14,Yes,Yes,https://metacritic.com/game/legend-of-kira-2
+84,Combat Strike 2,Shooter,Mobile,2K Games,2019,E10+,78.9,68.8,82.9,35.4,10,Yes,Yes,https://metacritic.com/game/combat-strike-2
+85,NBA Slam 2,Sports,PS4,Activision,2021,M,99.0,100.0,7.2,1.5,17,Yes,Yes,https://metacritic.com/game/nba-slam-2
+86,Assassin's Veil 2,Action,Xbox Series X,Nacon,2018,E,68.2,78.3,16.3,9.4,7,Yes,Yes,https://metacritic.com/game/assassin's-veil-2
+87,Final Story 2,RPG,Nintendo Switch,Capcom,2024,E10+,79.3,85.5,13.1,5.7,3,No,Yes,https://metacritic.com/game/final-story-2
+88,Forza Horizon 2,Racing,PS4,Nacon,2022,T,73.3,47.4,11.9,3.4,19,No,No,https://metacritic.com/game/forza-horizon-2
+89,Street Fighter 2,Fighting,Nintendo Switch,Square Enix,2016,E,71.0,61.0,169.4,82.9,9,No,No,https://metacritic.com/game/street-fighter-2
+90,Tekken 2,Fighting,Mobile,Devolver Digital,2021,E10+,56.8,53.3,37.7,9.0,20,Yes,Yes,https://metacritic.com/game/tekken-2
+91,SimCity Pro 2,Simulation,Wii,Nintendo,2019,AO,91.3,79.8,106.0,62.7,11,No,Yes,https://metacritic.com/game/simcity-pro-2
+92,Age of Conquest 2,Strategy,Xbox Series X,THQ Nordic,2020,T,74.1,66.2,52.6,10.9,13,Yes,Yes,https://metacritic.com/game/age-of-conquest-2
+93,Grand Auto World 2,Action,Xbox One,Team17,2021,M,76.4,71.6,35.5,19.7,13,Yes,No,https://metacritic.com/game/grand-auto-world-2
+94,Mario Odyssey 2,Adventure,PS4,Focus Home,2023,AO,69.4,70.3,64.2,37.7,14,Yes,No,https://metacritic.com/game/mario-odyssey-2
+95,Halo Chronicles 2,Shooter,PS4,2K Games,2024,E10+,93.0,83.1,279.5,172.0,2,Yes,Yes,https://metacritic.com/game/halo-chronicles-2
+96,Candy Puzzle 2,Puzzle,PS3,Deep Silver,2018,AO,50.6,49.4,59.6,31.8,10,Yes,Yes,https://metacritic.com/game/candy-puzzle-2
+97,Elden World 2,RPG,Nintendo Switch,Warner Bros,2020,E10+,77.4,72.4,26.9,10.2,8,Yes,Yes,https://metacritic.com/game/elden-world-2
+98,Dragon Quest 2,RPG,PS4,Koch Media,2024,E,68.1,63.4,77.4,35.5,6,Yes,Yes,https://metacritic.com/game/dragon-quest-2
+99,WWE Smackdown 2,Fighting,PS3,Koch Media,2021,E10+,78.3,72.8,81.4,44.4,20,No,Yes,https://metacritic.com/game/wwe-smackdown-2
+100,Rocket Arena 2,Sports,PS5,Activision,2022,T,77.7,84.2,62.2,19.3,7,Yes,No,https://metacritic.com/game/rocket-arena-2
+101,Survival Island 2,Adventure,Xbox One,Warner Bros,2024,AO,64.1,59.6,69.9,32.5,13,No,No,https://metacritic.com/game/survival-island-2
+102,Minecraft Ultra 2,Simulation,Xbox One,Devolver Digital,2020,M,81.3,81.1,37.2,12.5,8,Yes,Yes,https://metacritic.com/game/minecraft-ultra-2
+103,StarCraft 2,Strategy,Xbox One,Nintendo,2018,AO,89.3,84.6,57.2,38.6,5,Yes,Yes,https://metacritic.com/game/starcraft-2
+104,Cyberstrike Mobile 2,Shooter,PS4,505 Games,2022,AO,71.6,69.9,99.4,68.4,16,No,Yes,https://metacritic.com/game/cyberstrike-mobile-2
+105,Pokémon Next 2,RPG,PC,Square Enix,2016,E10+,83.9,90.4,122.2,46.5,9,Yes,No,https://metacritic.com/game/pokémon-next-2
+106,Mortal Kombat 2,Fighting,Nintendo Switch,Bandai Namco,2023,E,74.3,79.8,24.3,16.7,17,Yes,No,https://metacritic.com/game/mortal-kombat-2
+107,Gran Turismo 2,Racing,PS3,Nintendo,2017,E,77.9,76.9,36.5,17.8,15,Yes,Yes,https://metacritic.com/game/gran-turismo-2
+108,Civilization 2,Strategy,Nintendo Switch,Ubisoft,2020,T,81.1,74.6,268.4,180.0,15,Yes,Yes,https://metacritic.com/game/civilization-2
+109,Bioshock 2,Shooter,PS3,Activision,2021,AO,61.9,52.2,105.4,54.3,1,Yes,Yes,https://metacritic.com/game/bioshock-2
+110,Tomb Raider 2,Adventure,PS4,Activision,2024,E10+,83.5,88.5,62.1,16.1,13,No,No,https://metacritic.com/game/tomb-raider-2
+111,Animal Forest 2,Simulation,PC,Nacon,2024,AO,73.9,66.7,35.7,13.9,14,Yes,No,https://metacritic.com/game/animal-forest-2
+112,F1 Racing Pro 2,Racing,PS4,Deep Silver,2021,AO,65.9,73.7,28.6,6.6,3,Yes,No,https://metacritic.com/game/f1-racing-pro-2
+113,Overwatch 2,Shooter,PS4,Paradox Interactive,2018,E,64.1,61.5,50.0,13.9,5,No,Yes,https://metacritic.com/game/overwatch-2
+114,Stardew Valley 2,Simulation,PS5,Valve,2017,M,67.2,60.6,42.3,23.0,15,Yes,Yes,https://metacritic.com/game/stardew-valley-2
+115,God of Thunder 2,Action,PS4,Devolver Digital,2018,T,76.9,72.8,20.7,11.4,14,Yes,No,https://metacritic.com/game/god-of-thunder-2
+116,Battlefield 2,Shooter,PS4,Team17,2018,AO,76.8,65.2,8.1,4.3,6,Yes,Yes,https://metacritic.com/game/battlefield-2
+117,Sonic Frontiers 2,Adventure,PC,Team17,2023,E10+,65.4,63.7,45.2,29.6,4,Yes,Yes,https://metacritic.com/game/sonic-frontiers-2
+118,Resident Evil 2,Action,PS4,Focus Home,2017,AO,91.7,98.6,28.2,18.6,14,Yes,Yes,https://metacritic.com/game/resident-evil-2
+119,Monster Hunter 2,RPG,Mobile,Bandai Namco,2019,AO,73.8,65.8,32.5,15.3,14,Yes,No,https://metacritic.com/game/monster-hunter-2
+120,Diablo 2,RPG,Mobile,505 Games,2015,T,70.5,73.1,14.5,7.3,0,Yes,Yes,https://metacritic.com/game/diablo-2
+121,Apex Legends 2,Shooter,Wii,EA Games,2024,T,80.2,92.5,29.7,14.5,5,Yes,No,https://metacritic.com/game/apex-legends-2
+122,Valorant 2,Shooter,PS4,Microsoft Studios,2022,AO,78.8,84.3,22.2,9.3,15,Yes,Yes,https://metacritic.com/game/valorant-2
+123,League of Heroes 2,Strategy,Mobile,2K Games,2020,T,76.7,76.8,36.5,19.5,5,Yes,Yes,https://metacritic.com/game/league-of-heroes-2
+124,Hearthstone 2,Strategy,PS4,Paradox Interactive,2022,M,64.7,64.9,54.5,33.1,17,Yes,Yes,https://metacritic.com/game/hearthstone-2
+125,Among Stars 2,Adventure,Xbox One,Bandai Namco,2016,T,91.4,99.1,285.2,73.6,12,No,Yes,https://metacritic.com/game/among-stars-2
+126,Fall Guys Ultra 2,Sports,PS3,Valve,2023,E,64.8,71.8,39.8,11.7,11,No,Yes,https://metacritic.com/game/fall-guys-ultra-2
+127,Genshin Journey 2,RPG,PS5,Rockstar Games,2022,T,99.0,92.5,14.3,6.8,9,Yes,No,https://metacritic.com/game/genshin-journey-2
+128,Dead Island 2,Action,Xbox Series X,EA Games,2022,AO,66.8,49.8,19.6,11.8,5,Yes,No,https://metacritic.com/game/dead-island-2
+129,Borderlands 2,Shooter,Xbox 360,Valve,2015,E,64.9,66.1,46.6,14.6,3,Yes,Yes,https://metacritic.com/game/borderlands-2
+130,The Division 2,Shooter,PS3,Devolver Digital,2017,T,96.5,100.0,18.6,8.5,8,Yes,Yes,https://metacritic.com/game/the-division-2
+131,Watch Dogs 2,Action,PC,Sega,2022,AO,63.2,67.1,8.8,2.4,6,No,No,https://metacritic.com/game/watch-dogs-2
+132,Far Cry 2,Shooter,Xbox Series X,Bandai Namco,2017,M,96.0,100.0,20.7,7.7,16,Yes,Yes,https://metacritic.com/game/far-cry-2
+133,Ghost Recon 2,Shooter,PS4,Deep Silver,2019,AO,53.4,64.2,29.5,20.6,15,Yes,Yes,https://metacritic.com/game/ghost-recon-2
+134,Rainbow Six 2,Shooter,PS3,Bethesda,2023,T,88.9,76.1,18.2,8.7,17,Yes,Yes,https://metacritic.com/game/rainbow-six-2
+135,Just Dance 2,Sports,PC,Devolver Digital,2020,E10+,74.1,74.5,21.1,10.3,7,Yes,Yes,https://metacritic.com/game/just-dance-2
+136,South Park RPG 2,RPG,PS3,Devolver Digital,2020,M,81.5,73.0,28.7,11.3,20,Yes,Yes,https://metacritic.com/game/south-park-rpg-2
+137,Spiderman 2,Action,Nintendo Switch,THQ Nordic,2015,AO,75.4,79.5,67.5,24.7,3,Yes,Yes,https://metacritic.com/game/spiderman-2
+138,Batman Arkham 2,Action,PS3,EA Games,2023,E10+,60.5,48.2,118.8,48.1,20,Yes,Yes,https://metacritic.com/game/batman-arkham-2
+139,Crash Bandicoot 2,Adventure,PS4,2K Games,2022,AO,78.0,72.0,156.2,85.3,20,Yes,Yes,https://metacritic.com/game/crash-bandicoot-2
+140,Spyro Reignited 2,Adventure,Mobile,2K Games,2023,M,75.4,84.8,35.4,22.5,1,No,Yes,https://metacritic.com/game/spyro-reignited-2
+141,Cuphead 2,Action,PS4,Capcom,2018,E,98.7,100.0,25.8,10.8,3,No,No,https://metacritic.com/game/cuphead-2
+142,Hollow Knight 2,Adventure,PS3,Microsoft Studios,2016,T,85.7,90.9,130.1,84.8,1,Yes,Yes,https://metacritic.com/game/hollow-knight-2
+143,Celeste Pro 2,Puzzle,Xbox One,Bethesda,2019,M,62.4,67.9,95.4,26.0,16,Yes,No,https://metacritic.com/game/celeste-pro-2
+144,Hades 2,Action,Nintendo Switch,Microsoft Studios,2017,E,52.9,43.4,4.3,2.2,12,No,No,https://metacritic.com/game/hades-2
+145,Disco Elysium 2,RPG,PS3,Deep Silver,2018,E10+,70.8,76.5,148.8,47.0,20,Yes,Yes,https://metacritic.com/game/disco-elysium-2
+146,Outer Worlds 2,RPG,PS5,Sega,2019,T,74.9,87.9,8.3,4.5,5,Yes,Yes,https://metacritic.com/game/outer-worlds-2
+147,Wasteland 2,RPG,Wii,Square Enix,2020,M,53.6,53.2,48.6,26.5,14,Yes,Yes,https://metacritic.com/game/wasteland-2
+148,Pillars of Eternity 2,RPG,PS3,Nintendo,2021,E10+,73.6,57.1,30.3,11.8,11,No,Yes,https://metacritic.com/game/pillars-of-eternity-2
+149,Pathfinder 2,RPG,PS5,Paradox Interactive,2019,M,58.3,63.7,47.8,16.1,18,No,No,https://metacritic.com/game/pathfinder-2
+150,Greedfall 2,RPG,Wii,505 Games,2015,M,62.7,58.6,11.5,7.1,9,Yes,No,https://metacritic.com/game/greedfall-2
+151,Kenshi 2,Strategy,PC,Team17,2020,E10+,73.2,80.8,12.4,6.3,4,No,Yes,https://metacritic.com/game/kenshi-2
+152,Frostpunk 2,Strategy,PS4,Sega,2015,E,80.0,75.8,15.0,7.3,4,Yes,Yes,https://metacritic.com/game/frostpunk-2
+153,Offworld Trading 2,Strategy,Mobile,Microsoft Studios,2020,E10+,72.7,64.4,19.0,5.1,17,Yes,No,https://metacritic.com/game/offworld-trading-2
+154,Northgard 2,Strategy,PS4,Microsoft Studios,2023,T,59.6,75.3,34.3,22.5,15,Yes,No,https://metacritic.com/game/northgard-2
+155,They Are Billions 2,Strategy,Xbox Series X,Sega,2020,E,65.6,67.3,29.6,8.0,7,No,No,https://metacritic.com/game/they-are-billions-2
+156,Iron Harvest 2,Strategy,Xbox 360,Bethesda,2021,E,71.3,76.2,70.6,42.0,0,Yes,No,https://metacritic.com/game/iron-harvest-2
+157,Cyber Legends 3,RPG,PS3,Bethesda,2016,T,67.6,63.0,25.2,12.4,20,Yes,Yes,https://metacritic.com/game/cyber-legends-3
+158,Galactic Shooter 3,Shooter,PS3,EA Games,2018,AO,46.4,34.3,129.9,83.4,17,Yes,No,https://metacritic.com/game/galactic-shooter-3
+159,FIFA Pro 3,Sports,Xbox Series X,Team17,2018,M,93.7,91.7,58.9,38.6,9,No,Yes,https://metacritic.com/game/fifa-pro-3
+160,Shadow Realm 3,Action,Nintendo Switch,Ubisoft,2016,E,77.7,100.0,101.5,35.7,15,Yes,Yes,https://metacritic.com/game/shadow-realm-3
+161,Legend of Kira 3,RPG,Xbox 360,Sony Interactive,2018,M,72.5,64.9,6.6,2.8,17,Yes,No,https://metacritic.com/game/legend-of-kira-3
+162,Combat Strike 3,Shooter,Mobile,Team17,2017,E,76.4,70.3,8.0,4.9,19,Yes,Yes,https://metacritic.com/game/combat-strike-3
+163,NBA Slam 3,Sports,Xbox One,Rockstar Games,2015,M,66.2,57.5,179.0,75.6,7,Yes,Yes,https://metacritic.com/game/nba-slam-3
+164,Assassin's Veil 3,Action,Xbox 360,Team17,2020,T,84.6,84.5,145.5,33.5,8,Yes,Yes,https://metacritic.com/game/assassin's-veil-3
+165,Final Story 3,RPG,Xbox Series X,Paradox Interactive,2022,E10+,74.9,68.0,151.9,79.1,19,Yes,Yes,https://metacritic.com/game/final-story-3
+166,Forza Horizon 3,Racing,PC,Sony Interactive,2020,AO,80.5,72.2,27.4,8.3,17,Yes,No,https://metacritic.com/game/forza-horizon-3
+167,Street Fighter 3,Fighting,PC,2K Games,2018,E10+,63.5,52.4,83.6,49.7,19,Yes,Yes,https://metacritic.com/game/street-fighter-3
+168,Tekken 3,Fighting,Nintendo Switch,Koch Media,2017,T,96.9,85.7,58.1,34.8,3,No,Yes,https://metacritic.com/game/tekken-3
+169,SimCity Pro 3,Simulation,PS5,Bethesda,2017,E10+,66.2,62.3,18.3,9.0,0,Yes,Yes,https://metacritic.com/game/simcity-pro-3
+170,Age of Conquest 3,Strategy,Nintendo Switch,505 Games,2015,M,63.6,64.0,14.4,6.7,2,Yes,Yes,https://metacritic.com/game/age-of-conquest-3
+171,Grand Auto World 3,Action,Xbox 360,Deep Silver,2020,E,77.2,76.8,26.1,11.1,7,No,Yes,https://metacritic.com/game/grand-auto-world-3
+172,Mario Odyssey 3,Adventure,PS4,Sega,2023,E,63.1,58.5,70.5,16.2,15,Yes,Yes,https://metacritic.com/game/mario-odyssey-3
+173,Halo Chronicles 3,Shooter,PS3,Devolver Digital,2016,M,80.0,72.2,36.6,8.7,2,Yes,No,https://metacritic.com/game/halo-chronicles-3
+174,Candy Puzzle 3,Puzzle,Xbox Series X,Sony Interactive,2017,T,83.0,69.6,57.0,29.2,18,No,No,https://metacritic.com/game/candy-puzzle-3
+175,Elden World 3,RPG,Mobile,Focus Home,2020,AO,66.0,70.6,15.4,5.4,16,No,Yes,https://metacritic.com/game/elden-world-3
+176,Dragon Quest 3,RPG,Xbox Series X,Team17,2016,AO,52.3,39.3,34.7,19.4,6,Yes,Yes,https://metacritic.com/game/dragon-quest-3
+177,WWE Smackdown 3,Fighting,Mobile,2K Games,2018,M,77.1,69.9,62.7,25.0,3,Yes,Yes,https://metacritic.com/game/wwe-smackdown-3
+178,Rocket Arena 3,Sports,PS4,Bethesda,2020,E10+,54.1,53.6,9.9,5.4,15,Yes,Yes,https://metacritic.com/game/rocket-arena-3
+179,Survival Island 3,Adventure,Xbox Series X,Valve,2016,E,66.2,66.6,14.0,8.0,11,Yes,No,https://metacritic.com/game/survival-island-3
+180,Minecraft Ultra 3,Simulation,Wii,Koch Media,2015,AO,69.4,77.5,18.6,6.8,3,Yes,Yes,https://metacritic.com/game/minecraft-ultra-3
+181,StarCraft 3,Strategy,PS5,Square Enix,2021,AO,84.0,75.0,56.2,20.0,3,No,No,https://metacritic.com/game/starcraft-3
+182,Cyberstrike Mobile 3,Shooter,Nintendo Switch,Paradox Interactive,2018,M,91.3,71.5,14.9,4.7,3,Yes,No,https://metacritic.com/game/cyberstrike-mobile-3
+183,Pokémon Next 3,RPG,Xbox Series X,Nacon,2020,T,80.9,79.3,48.0,23.4,13,No,No,https://metacritic.com/game/pokémon-next-3
+184,Mortal Kombat 3,Fighting,Xbox 360,EA Games,2024,AO,66.8,67.5,28.3,18.8,8,Yes,Yes,https://metacritic.com/game/mortal-kombat-3
+185,Gran Turismo 3,Racing,PS4,2K Games,2019,T,88.0,90.0,46.4,9.4,4,No,No,https://metacritic.com/game/gran-turismo-3
+186,Civilization 3,Strategy,Xbox Series X,Sony Interactive,2021,E,69.1,65.2,21.5,5.3,16,Yes,Yes,https://metacritic.com/game/civilization-3
+187,Bioshock 3,Shooter,PS3,2K Games,2021,E10+,78.7,75.3,44.2,17.0,10,No,No,https://metacritic.com/game/bioshock-3
+188,Tomb Raider 3,Adventure,PS5,Sony Interactive,2016,E10+,98.9,100.0,23.9,13.8,1,No,Yes,https://metacritic.com/game/tomb-raider-3
+189,Animal Forest 3,Simulation,PS3,Paradox Interactive,2019,M,88.4,85.1,4.3,1.9,14,Yes,Yes,https://metacritic.com/game/animal-forest-3
+190,F1 Racing Pro 3,Racing,Xbox 360,Nintendo,2018,T,61.9,46.9,23.3,9.7,9,No,No,https://metacritic.com/game/f1-racing-pro-3
+191,Overwatch 3,Shooter,PS3,THQ Nordic,2024,T,74.2,87.6,45.9,10.2,12,No,Yes,https://metacritic.com/game/overwatch-3
+192,Stardew Valley 3,Simulation,PC,Square Enix,2015,E10+,71.4,78.0,3.6,2.1,8,Yes,Yes,https://metacritic.com/game/stardew-valley-3
+193,God of Thunder 3,Action,PS5,Warner Bros,2016,M,76.8,83.0,7.5,2.2,12,No,No,https://metacritic.com/game/god-of-thunder-3
+194,Battlefield 3,Shooter,Xbox 360,Koch Media,2018,T,87.7,90.4,21.9,5.2,1,Yes,Yes,https://metacritic.com/game/battlefield-3
+195,Sonic Frontiers 3,Adventure,Xbox Series X,2K Games,2022,AO,81.6,99.8,39.7,16.5,12,No,No,https://metacritic.com/game/sonic-frontiers-3
+196,Resident Evil 3,Action,PS4,Nintendo,2021,M,77.0,73.3,14.2,3.0,10,Yes,No,https://metacritic.com/game/resident-evil-3
+197,Monster Hunter 3,RPG,Xbox One,Activision,2022,M,84.0,77.2,35.6,22.2,7,Yes,No,https://metacritic.com/game/monster-hunter-3
+198,Diablo 3,RPG,Xbox 360,Activision,2021,M,68.3,72.1,46.2,29.3,10,Yes,Yes,https://metacritic.com/game/diablo-3
+199,Apex Legends 3,Shooter,Xbox Series X,THQ Nordic,2017,E,86.5,82.4,25.3,11.8,6,Yes,Yes,https://metacritic.com/game/apex-legends-3
+200,Valorant 3,Shooter,PC,Nintendo,2017,E10+,62.3,58.7,48.3,15.8,5,No,Yes,https://metacritic.com/game/valorant-3
